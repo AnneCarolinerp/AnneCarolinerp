@@ -1,0 +1,1 @@
+![Anurag's GitHub stats](https://AnneCarolinerp.vercel.app/api?username=AnneCarolinerp&count_private=true&show_icons=true&theme=radical)
